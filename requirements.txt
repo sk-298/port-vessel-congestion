@@ -1,5 +1,6 @@
 streamlit
-tensorflow
+tf-keras
 pandas
 numpy
 scikit-learn
+https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-2.15.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl; sys_platform == 'linux'
