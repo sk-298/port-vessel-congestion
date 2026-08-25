@@ -1,7 +1,5 @@
-streamlit
+tensorflow-cpu
+keras
 pandas
 numpy
 scikit-learn
-tensorflow-cpu
-joblib
-matplotlib
