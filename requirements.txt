@@ -1,5 +1,4 @@
-tensorflow-cpu
-keras
+streamlit
 pandas
 numpy
 scikit-learn
